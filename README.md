@@ -27,7 +27,7 @@ This is a simple number guessing game where the player has to guess a randomly g
 5. At the end of the game, the result (win or lose) is displayed along with the number the player was trying to guess.
 
 ## Example:
-```yaml
+```csharp
 Welcome to the Guessing Game!
 I thought of a number between 1 and 100. You have 5 attempts to guess it.
 
